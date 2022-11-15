@@ -44,28 +44,26 @@ Technical Architecture:
 ## PROJECT IDEATION:
 
 - EMPATHY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
-- LITERATURE SURVEY [View Document]
 - PROBLEM STATEMENT [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf)
 - BRAINSTORMING IDEATION [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Ideation%20(Brainstorming).pdf)
 
 ## PROJECT DESIGN PHASE-1:
 
--  PROPOSED SOLUTION [View Document]
--  PROBLEM SOLUTION FIT [View Document]
--  SOLUTION ARCHITECTURE [View Document]
+-  PROPOSED SOLUTION [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/PROPOSED%20SOLUTION.pdf)
+-  PROBLEM SOLUTION FIT [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/Problem%20Solution%20Fit.pdf)
+-  SOLUTION ARCHITECTURE [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/SOLUTION%20ARCHITECTURE.pdf)
 
 ## PROJECT DESIGN PHASE-2:
 
--  DATA FLOW DIAGRAM [View Document]
--  TECHNOLOGY ARCHITECTURE [View Document]
--  FUNCTIONAL REQUIREMENTS [View Document]
--  CUSTOMER JOURNEY MAP [View Document]
+-  DATA FLOW DIAGRAM [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/DATA%20FLOW%20DIAGRAM.pdf)
+-  TECHNOLOGY ARCHITECTURE [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/TECHNOLOGY%20ARCHITECTURE.pdf)
+-  FUNCTIONAL REQUIREMENTS [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/FUNCTIONAL%20REQUIREMENTS-1.pdf)
+-  CUSTOMER JOURNEY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/CUSTOMER%20JOURNEY%20MAP.pdf)
 
 ## PROJECT PLANNING:
 
--  MILESTONE ACTIVITY CHART [View Document]
--  SPRINT DELIVERY PLAN [View Document]
--  JIRA Projects[View Document]
+-  MILESTONE ACTIVITY CHART [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20Activity%20List.pdf)
+-  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-42459-1660663605/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
 
 <h1>Languages used:</h1>
 
